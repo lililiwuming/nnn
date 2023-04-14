@@ -20,7 +20,7 @@
 			"streamSettings": {
 				"network": "ws",
 				"wsSettings": {
-					"path": "/edge_VWESS_WSPATH"
+					"path": "/edge_VWESS"
 				}
 			}
 		},
@@ -39,7 +39,7 @@
 			"streamSettings": {
 				"network": "ws",
 				"wsSettings": {
-					"path": "/edge_VLESS_WSPATH"
+					"path": "/edge_VLESS"
 				}
 			}
 		},
@@ -58,7 +58,7 @@
 			"streamSettings": {
 				"network": "ws",
 				"wsSettings": {
-					"path": "/edge_TROJAN_WSPATH"
+					"path": "/edge_TROJAN"
 				}
 			}
 		},
@@ -78,7 +78,7 @@
 			"streamSettings": {
 				"network": "ws",
 				"wsSettings": {
-					"path": "/edge_SS_WSPATH"
+					"path": "/edge_SS"
 				}
 			}
 		}
